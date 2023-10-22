@@ -3,12 +3,7 @@
     margin: 40px;
     gap: 40px;
 }
-header {
-    margin-top: 20px;
-    margin-left: 40px;
-    display: flex;
-    justify-content: center;
-}
+
 
 .articles__main {
     width: 40%;
