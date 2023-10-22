@@ -1,0 +1,11 @@
+
+.container__menu-bar ul{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    list-style: none;
+}
+
+.container__menu-bar ul li a{
+    text-decoration: none;
+}
