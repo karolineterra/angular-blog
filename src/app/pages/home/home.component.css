@@ -1,0 +1,9 @@
+.articles {
+    display: flex;
+    margin: 40px;
+    gap: 40px;
+}
+
+.articles__main {
+    width: 40%;
+}
