@@ -1,0 +1,17 @@
+.container__big-card {
+    width: 40%;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.container__big-card img {
+    width: 100%;
+    height: fit-content;
+}
+
+.container__big-card p {
+    text-align: justify;
+    color: #9b9a9a;
+} 
